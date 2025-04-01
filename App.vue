@@ -7,6 +7,7 @@ import '@/reset.css';
       <h1>App Vue</h1>
       <NuxtLink to="/index">Ir a Home</NuxtLink>
       <NuxtLink to="/catalog">Ir a Catálogo</NuxtLink>
+      <NuxtLink to="/productos">Ir a productos</NuxtLink>
     </div>
   </template>
 
